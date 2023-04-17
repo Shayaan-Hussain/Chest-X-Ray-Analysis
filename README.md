@@ -37,5 +37,9 @@ To install all the dependancies, run the following shell command :<br/>
 ```
 pip install -r requirements.txt
 ```
-To run the code to train the Custom CNN model, execute all the cells in ```customModel.ipynb``` file. <br/>
-To run the code to train the VGG-19 model, execute all the cells in ```vggModel.ipynb``` file. <br/>
+To run the code to train the Custom CNN model, execute all the cells in ```code1_customModel.ipynb``` file. <br/>
+To run the code to train the VGG-19 model, execute all the cells in ```code2_vggModel.ipynb``` file. <br/>
+
+### ***Note:***
+1. There are two cells of evaluation in both files i.e. ```code1_customModel.ipynb``` and ```code2_vggModel.ipynb```, the first one represents the fully trained model i.e. the model after running all the epochs and the second one represents the best model saved throughout the training process based on the validation loss.
+2. VGG-19 Model files were larger than 100MB which is the limit for uploading files on github, hence they were removed from this repository. Kindly use the weights file to make predictions as specified in 9th cell of the file ```code3_predictions.ipynb``` [VGG-19 Model Prediction (Method 2)]<br/>
