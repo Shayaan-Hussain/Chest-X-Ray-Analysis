@@ -6,6 +6,7 @@
 ***Major Project :*** B.Tech ECE-C Team 6 (2023 Batch)<br/>
 ***Project Title :*** ENHANCED DETECTION OF PULMONARY AILMENTS USING MACHINE LEARNING ALGORITHMS<br/>
 ***College :*** S R Engineering College<br/><br/>
+***IEEE Publication :*** <a href="https://ieeexplore.ieee.org/document/10169625">Click Here</a>
 
 This project was submitted as Major Project for award of the degree Bachelor of Technology in Electronics and Communication Engineering (ECE) in the academic year 2022-2023.<br/><br/>
 
