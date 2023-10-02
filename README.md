@@ -2,9 +2,9 @@
 
 ***Name :*** Shayaan Hussain <br/>
 ***Hall Ticket Number :*** 19K41A04E6 <br/>
-***Year/Sem :*** 4/2 <br/>
+***Year/Sem :*** 4/1 & 4/2 <br/>
 ***Major Project :*** B.Tech ECE-C Team 6 (2023 Batch)<br/>
-***Project Title :*** ENHANCED DETECTION OF PULMONARY AILMENTS USING MACHINE LEARNING ALGORITHMS<br/>
+***Project Title :*** Enhancement of a Biomedical Instrument using Machine Learning<br/>
 ***College :*** S R Engineering College<br/><br/>
 ***IEEE Publication :*** <a href="https://ieeexplore.ieee.org/document/10169625">Click Here</a>
 
